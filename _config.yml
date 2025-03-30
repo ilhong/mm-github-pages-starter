@@ -1,3 +1,21 @@
+title: MM
+email: your@email.com
+description: >-
+  이 블로그는 범죄학 강의와 연구 자료를 정리한 것입니다.
+baseurl:  "/mm-github-pages-starter"  # the subpath of your site, e.g. /blog
+url: "https://ilhong.github.io" # 로컬 테스트일 땐 localhost 사용
+twitter_username: ilhong
+github_username: ilhong
+
+author:
+  name: "Ilhong Yoon"
+  bio: "범죄학 교수 | 강의와 연구 중심 블로그"
+  links:
+    - label: "Website"
+      url: "https://your.site"
+    - label: "GitHub"
+      url: "https://github.com/ilhong"
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
