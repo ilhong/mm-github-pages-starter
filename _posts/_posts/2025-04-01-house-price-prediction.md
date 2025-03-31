@@ -8,7 +8,7 @@ tags: [Python, Streamlit, LinearRegression]
 Streamlit으로 만든 간단한 주택 가격 예측기입니다.  
 학생들이 면적과 방 개수를 입력하면, 훈련된 선형 회귀 모델이 집값을 예측해줍니다.
 
-👉 [앱 실행하러 가기](https://dryoon.shinyapps.io/ml_app/)
+👉 [앱 실행하러 가기](https://ml-house-price-app-brf6x9jdyvuuknbf5wzct.streamlit.app)
 
 
 
